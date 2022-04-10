@@ -3,7 +3,7 @@
 I'm a Software Engineer student at Universidad de San Carlos Guatemala
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/edson-avila-725227212/" target="_blank"><img alt="aakarsh.me" width="22px" src="https://logo.clearbit.com/linkedin.com?size=80" /></a>
+<a href="https://www.linkedin.com/in/edson-avila-725227212/" target="_blank"><img alt="aakarsh.me" width="40px" src="https://logo.clearbit.com/linkedin.com?size=80" /></a>
 </p>
 
 🔭 I’m currently loking for a job
@@ -13,10 +13,12 @@ I'm a Software Engineer student at Universidad de San Carlos Guatemala
 📫 How to reach me: esavilaortiz@gmail.com
 
 ## About me
+[Edson's Portafolio](https://av-edson.github.io/portafolio/)
 
 ![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=av-edson&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av-edson)
+
 
 ## Languages and Tools knowledge:
 
